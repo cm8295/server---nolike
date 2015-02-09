@@ -1,0 +1,20 @@
+﻿Build started 2015/2/9 16:00:04.
+     1>Project "J:\chenm\fileLoad\server\server\server.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "x64\Release\server.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       CustomBuild:
+         All outputs are up-to-date.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         server.vcxproj -> J:\chenm\fileLoad\server\x64\Release\server.exe
+       FinalizeBuildStatus:
+         Deleting file "x64\Release\server.unsuccessfulbuild".
+         Touching "x64\Release\server.lastbuildstate".
+     1>Done Building Project "J:\chenm\fileLoad\server\server\server.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.19

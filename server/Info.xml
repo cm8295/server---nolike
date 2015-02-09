@@ -1,0 +1,306 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<items>
+    <item filesize="43305697" timer="2014-10-31 10:57:38" filename="E:\FileLoadTest\test\b.pdf" upordown="up">
+        <item filesize="349" clientip="192.168.1.77" timer="2014-10-31 11:10:16" filename="E:\FileLoadTest\chenming\casit.med.cardiacdatasearching\CMakeLists.txt" upordown="up"/>
+        <item filesize="1065" clientip="192.168.1.77" timer="2014-10-31 11:10:16" filename="E:\FileLoadTest\chenming\casit.med.cardiacdatasearching\files.cmake" upordown="up"/>
+        <item filesize="340" clientip="192.168.1.77" timer="2014-10-31 11:10:16" filename="E:\FileLoadTest\chenming\casit.med.cardiacdatasearching\manifest_headers.cmake" upordown="up"/>
+        <item filesize="431" clientip="192.168.1.77" timer="2014-10-31 11:10:16" filename="E:\FileLoadTest\chenming\casit.med.cardiacdatasearching\plugin.xml" upordown="up"/>
+        <item filesize="575" clientip="192.168.1.77" timer="2014-10-31 11:10:16" filename="E:\FileLoadTest\chenming\casit.med.cardiacdatasearching\resources\icon.xpm" upordown="up"/>
+        <item filesize="694" clientip="192.168.1.77" timer="2014-10-31 11:10:16" filename="E:\FileLoadTest\chenming\casit.med.cardiacdatasearching\documentation\doxygen\modules.dox" upordown="up"/>
+        <item filesize="605" clientip="192.168.1.77" timer="2014-10-31 11:10:16" filename="E:\FileLoadTest\chenming\casit.med.cardiacdatasearching\documentation\UserManual\icon.xpm" upordown="up"/>
+        <item filesize="602" clientip="192.168.1.77" timer="2014-10-31 11:10:16" filename="E:\FileLoadTest\chenming\casit.med.cardiacdatasearching\documentation\UserManual\Manual.dox" upordown="up"/>
+        <item filesize="1223" clientip="192.168.1.77" timer="2014-10-31 11:10:16" filename="E:\FileLoadTest\chenming\casit.med.cardiacdatasearching\src\internal\casit_med_cardiacdatasearching_Activator.cpp" upordown="up"/>
+        <item filesize="1232" clientip="192.168.1.77" timer="2014-10-31 11:10:16" filename="E:\FileLoadTest\chenming\casit.med.cardiacdatasearching\src\internal\casit_med_cardiacdatasearching_Activator.h" upordown="up"/>
+        <item filesize="5754" clientip="192.168.1.77" timer="2014-10-31 11:10:16" filename="E:\FileLoadTest\chenming\casit.med.cardiacdatasearching\src\internal\QmitkDataSearching.cpp" upordown="up"/>
+        <item filesize="2746" clientip="192.168.1.77" timer="2014-10-31 11:10:16" filename="E:\FileLoadTest\chenming\casit.med.cardiacdatasearching\src\internal\QmitkDataSearching.h" upordown="up"/>
+        <item filesize="3539" clientip="192.168.1.77" timer="2014-10-31 11:10:16" filename="E:\FileLoadTest\chenming\casit.med.cardiacdatasearching\src\internal\QmitkDataSearchingControls.ui" upordown="up"/>
+        <item filesize="43305697" clientip="192.168.1.77" timer="2014-10-31 11:10:44" filename="E:\FileLoadTest\test\b.pdf" upordown="up"/>
+        <item filesize="43305697" clientip="192.168.1.77" timer="2014-10-31 11:15:31" filename="E:\FileLoadTest\test\b.pdf" upordown="up"/>
+        <item filesize="43305697" clientip="192.168.1.77" timer="2014-10-31 11:22:07" filename="E:\FileLoadTest\test\b.pdf" upordown="up"/>
+        <item filesize="349" clientip="192.168.1.77" timer="2014-10-31 11:22:32" filename="E:\FileLoadTest\chenming\casit.med.cardiacdatasearching\CMakeLists.txt" upordown="up"/>
+        <item filesize="1065" clientip="192.168.1.77" timer="2014-10-31 11:22:33" filename="E:\FileLoadTest\chenming\casit.med.cardiacdatasearching\files.cmake" upordown="up"/>
+        <item filesize="431" clientip="192.168.1.77" timer="2014-10-31 11:22:34" filename="E:\FileLoadTest\chenming\casit.med.cardiacdatasearching\plugin.xml" upordown="up"/>
+        <item filesize="340" clientip="192.168.1.77" timer="2014-10-31 11:22:34" filename="E:\FileLoadTest\chenming\casit.med.cardiacdatasearching\manifest_headers.cmake" upordown="up"/>
+        <item filesize="575" clientip="192.168.1.77" timer="2014-10-31 11:22:35" filename="E:\FileLoadTest\chenming\casit.med.cardiacdatasearching\resources\icon.xpm" upordown="up"/>
+        <item filesize="694" clientip="192.168.1.77" timer="2014-10-31 11:22:35" filename="E:\FileLoadTest\chenming\casit.med.cardiacdatasearching\documentation\doxygen\modules.dox" upordown="up"/>
+        <item filesize="605" clientip="192.168.1.77" timer="2014-10-31 11:22:35" filename="E:\FileLoadTest\chenming\casit.med.cardiacdatasearching\documentation\UserManual\icon.xpm" upordown="up"/>
+        <item filesize="602" clientip="192.168.1.77" timer="2014-10-31 11:22:35" filename="E:\FileLoadTest\chenming\casit.med.cardiacdatasearching\documentation\UserManual\Manual.dox" upordown="up"/>
+        <item filesize="1223" clientip="192.168.1.77" timer="2014-10-31 11:22:35" filename="E:\FileLoadTest\chenming\casit.med.cardiacdatasearching\src\internal\casit_med_cardiacdatasearching_Activator.cpp" upordown="up"/>
+        <item filesize="1232" clientip="192.168.1.77" timer="2014-10-31 11:22:35" filename="E:\FileLoadTest\chenming\casit.med.cardiacdatasearching\src\internal\casit_med_cardiacdatasearching_Activator.h" upordown="up"/>
+        <item filesize="5754" clientip="192.168.1.77" timer="2014-10-31 11:22:35" filename="E:\FileLoadTest\chenming\casit.med.cardiacdatasearching\src\internal\QmitkDataSearching.cpp" upordown="up"/>
+        <item filesize="2746" clientip="192.168.1.77" timer="2014-10-31 11:22:35" filename="E:\FileLoadTest\chenming\casit.med.cardiacdatasearching\src\internal\QmitkDataSearching.h" upordown="up"/>
+        <item filesize="3539" clientip="192.168.1.77" timer="2014-10-31 11:22:35" filename="E:\FileLoadTest\chenming\casit.med.cardiacdatasearching\src\internal\QmitkDataSearchingControls.ui" upordown="up"/>
+        <item filesize="43305697" clientip="192.168.1.77" timer="2014-10-31 11:25:59" filename="E:\FileLoadTest\test\b.pdf" upordown="up"/>
+        <item filesize="43305697" clientip="192.168.1.77" timer="2014-10-31 11:31:10" filename="E:\FileLoadTest\test\b.pdf" upordown="up"/>
+        <item filesize="349" clientip="192.168.1.77" timer="2014-10-31 12:02:09" filename="E:\FileLoadTest\chenming\casit.med.cardiacdatasearching\CMakeLists.txt" upordown="up"/>
+        <item filesize="1065" clientip="192.168.1.77" timer="2014-10-31 12:02:09" filename="E:\FileLoadTest\chenming\casit.med.cardiacdatasearching\files.cmake" upordown="up"/>
+        <item filesize="340" clientip="192.168.1.77" timer="2014-10-31 12:02:09" filename="E:\FileLoadTest\chenming\casit.med.cardiacdatasearching\manifest_headers.cmake" upordown="up"/>
+        <item filesize="431" clientip="192.168.1.77" timer="2014-10-31 12:02:09" filename="E:\FileLoadTest\chenming\casit.med.cardiacdatasearching\plugin.xml" upordown="up"/>
+        <item filesize="575" clientip="192.168.1.77" timer="2014-10-31 12:02:09" filename="E:\FileLoadTest\chenming\casit.med.cardiacdatasearching\resources\icon.xpm" upordown="up"/>
+        <item filesize="694" clientip="192.168.1.77" timer="2014-10-31 12:02:09" filename="E:\FileLoadTest\chenming\casit.med.cardiacdatasearching\documentation\doxygen\modules.dox" upordown="up"/>
+        <item filesize="605" clientip="192.168.1.77" timer="2014-10-31 12:02:09" filename="E:\FileLoadTest\chenming\casit.med.cardiacdatasearching\documentation\UserManual\icon.xpm" upordown="up"/>
+        <item filesize="602" clientip="192.168.1.77" timer="2014-10-31 12:02:09" filename="E:\FileLoadTest\chenming\casit.med.cardiacdatasearching\documentation\UserManual\Manual.dox" upordown="up"/>
+        <item filesize="1223" clientip="192.168.1.77" timer="2014-10-31 12:02:09" filename="E:\FileLoadTest\chenming\casit.med.cardiacdatasearching\src\internal\casit_med_cardiacdatasearching_Activator.cpp" upordown="up"/>
+        <item filesize="1232" clientip="192.168.1.77" timer="2014-10-31 12:02:10" filename="E:\FileLoadTest\chenming\casit.med.cardiacdatasearching\src\internal\casit_med_cardiacdatasearching_Activator.h" upordown="up"/>
+        <item filesize="5754" clientip="192.168.1.77" timer="2014-10-31 12:02:10" filename="E:\FileLoadTest\chenming\casit.med.cardiacdatasearching\src\internal\QmitkDataSearching.cpp" upordown="up"/>
+        <item filesize="2746" clientip="192.168.1.77" timer="2014-10-31 12:02:10" filename="E:\FileLoadTest\chenming\casit.med.cardiacdatasearching\src\internal\QmitkDataSearching.h" upordown="up"/>
+        <item filesize="3539" clientip="192.168.1.77" timer="2014-10-31 12:02:10" filename="E:\FileLoadTest\chenming\casit.med.cardiacdatasearching\src\internal\QmitkDataSearchingControls.ui" upordown="up"/>
+        <item filesize="16771" clientip="192.168.1.77" timer="2014-11-06 14:16:43" filename="E:\FileLoadTest\图片\image009992.jpg" upordown="up"/>
+        <item filesize="845672" clientip="192.168.1.77" timer="2014-11-06 14:16:43" filename="E:\FileLoadTest\图片\Snap1.jpg" upordown="up"/>
+        <item filesize="3040647" clientip="192.168.1.77" timer="2014-11-06 14:16:43" filename="E:\FileLoadTest\图片\" upordown="up"/>
+        <item filesize="600676" clientip="192.168.1.77" timer="2014-11-06 14:16:43" filename="E:\FileLoadTest\图片\" upordown="up"/>
+        <item filesize="14541437" clientip="192.168.1.77" timer="2014-11-06 14:16:44" filename="E:\FileLoadTest\图片\" upordown="up"/>
+        <item filesize="2374438" clientip="192.168.1.77" timer="2014-11-06 14:16:44" filename="E:\FileLoadTest\图片\" upordown="up"/>
+        <item filesize="1741894" clientip="192.168.1.77" timer="2014-11-06 14:16:44" filename="E:\FileLoadTest\图片\" upordown="up"/>
+        <item filesize="1255524" clientip="192.168.1.77" timer="2014-11-06 14:16:44" filename="E:\FileLoadTest\图片\" upordown="up"/>
+        <item filesize="10449" clientip="192.168.1.77" timer="2014-11-06 14:17:38" filename="E:\FileLoadTest\Disinfection\" upordown="up"/>
+        <item filesize="654" clientip="192.168.1.77" timer="2014-11-06 14:17:38" filename="E:\FileLoadTest\Disinfection\说明.txt" upordown="up"/>
+        <item filesize="587" clientip="192.168.1.77" timer="2014-11-06 14:17:38" filename="E:\FileLoadTest\Disinfection\" upordown="up"/>
+        <item filesize="765" clientip="192.168.1.77" timer="2014-11-06 14:17:38" filename="E:\FileLoadTest\Disinfection\" upordown="up"/>
+        <item filesize="374" clientip="192.168.1.77" timer="2014-11-06 14:17:38" filename="E:\FileLoadTest\Disinfection\" upordown="up"/>
+        <item filesize="24770" clientip="192.168.1.77" timer="2014-11-06 14:17:38" filename="E:\FileLoadTest\Disinfection\" upordown="up"/>
+        <item filesize="3700" clientip="192.168.1.77" timer="2014-11-06 14:17:38" filename="E:\FileLoadTest\Disinfection\" upordown="up"/>
+        <item filesize="15389" clientip="192.168.1.77" timer="2014-11-06 14:17:38" filename="E:\FileLoadTest\Disinfection\" upordown="up"/>
+        <item filesize="662" clientip="192.168.1.77" timer="2014-11-06 14:17:38" filename="E:\FileLoadTest\Disinfection\" upordown="up"/>
+        <item filesize="7991" clientip="192.168.1.77" timer="2014-11-06 14:17:38" filename="E:\FileLoadTest\Disinfection\" upordown="up"/>
+        <item filesize="256588" clientip="192.168.1.77" timer="2014-11-06 14:17:38" filename="E:\FileLoadTest\Disinfection\" upordown="up"/>
+        <item filesize="113146" clientip="192.168.1.77" timer="2014-11-06 14:17:38" filename="E:\FileLoadTest\Disinfection\" upordown="up"/>
+        <item filesize="2527" clientip="192.168.1.77" timer="2014-11-06 14:17:38" filename="E:\FileLoadTest\Disinfection\" upordown="up"/>
+        <item filesize="1660" clientip="192.168.1.77" timer="2014-11-06 14:17:38" filename="E:\FileLoadTest\Disinfection\" upordown="up"/>
+        <item filesize="215" clientip="192.168.1.77" timer="2014-11-06 14:17:38" filename="E:\FileLoadTest\Disinfection\" upordown="up"/>
+        <item filesize="18508" clientip="192.168.1.77" timer="2014-11-06 14:17:38" filename="E:\FileLoadTest\Disinfection\" upordown="up"/>
+        <item filesize="868" clientip="192.168.1.77" timer="2014-11-06 14:17:38" filename="E:\FileLoadTest\Disinfection\" upordown="up"/>
+        <item filesize="2098" clientip="192.168.1.77" timer="2014-11-06 14:17:38" filename="E:\FileLoadTest\Disinfection\" upordown="up"/>
+        <item filesize="3145804" clientip="192.168.1.77" timer="2014-11-06 14:17:38" filename="E:\FileLoadTest\Disinfection\" upordown="up"/>
+        <item filesize="5308492" clientip="192.168.1.77" timer="2014-11-06 14:17:39" filename="E:\FileLoadTest\Disinfection\" upordown="up"/>
+        <item filesize="186977" clientip="192.168.1.77" timer="2014-11-06 14:17:39" filename="E:\FileLoadTest\Disinfection\" upordown="up"/>
+        <item filesize="79" clientip="192.168.1.77" timer="2014-11-06 14:17:39" filename="E:\FileLoadTest\Disinfection\" upordown="up"/>
+        <item filesize="29138" clientip="192.168.1.77" timer="2014-11-06 14:17:39" filename="E:\FileLoadTest\Disinfection\" upordown="up"/>
+        <item filesize="79" clientip="192.168.1.77" timer="2014-11-06 14:17:39" filename="E:\FileLoadTest\Disinfection\" upordown="up"/>
+        <item filesize="3238" clientip="192.168.1.77" timer="2014-11-06 14:17:39" filename="E:\FileLoadTest\Disinfection\ExamWin\ActionJudge.cs" upordown="up"/>
+        <item filesize="296" clientip="192.168.1.77" timer="2014-11-06 14:17:39" filename="E:\FileLoadTest\Disinfection\ExamWin\App.config" upordown="up"/>
+        <item filesize="430" clientip="192.168.1.77" timer="2014-11-06 14:17:39" filename="E:\FileLoadTest\Disinfection\ExamWin\App.xaml" upordown="up"/>
+        <item filesize="458" clientip="192.168.1.77" timer="2014-11-06 14:17:39" filename="E:\FileLoadTest\Disinfection\ExamWin\App.xaml.cs" upordown="up"/>
+        <item filesize="2172" clientip="192.168.1.77" timer="2014-11-06 14:17:39" filename="E:\FileLoadTest\Disinfection\ExamWin\BlankCheck.cs" upordown="up"/>
+        <item filesize="17850" clientip="192.168.1.77" timer="2014-11-06 14:17:39" filename="E:\FileLoadTest\Disinfection\ExamWin\DatabaseControl.cs" upordown="up"/>
+        <item filesize="5130" clientip="192.168.1.77" timer="2014-11-06 14:17:39" filename="E:\FileLoadTest\Disinfection\ExamWin\DataSave.cs" upordown="up"/>
+        <item filesize="3700" clientip="192.168.1.77" timer="2014-11-06 14:17:39" filename="E:\FileLoadTest\Disinfection\ExamWin\Draw.cs" upordown="up"/>
+        <item filesize="6592" clientip="192.168.1.77" timer="2014-11-06 14:17:39" filename="E:\FileLoadTest\Disinfection\ExamWin\ExamWin.csproj" upordown="up"/>
+        <item filesize="823" clientip="192.168.1.77" timer="2014-11-06 14:17:39" filename="E:\FileLoadTest\Disinfection\ExamWin\ExamWin.csproj.user" upordown="up"/>
+        <item filesize="8874" clientip="192.168.1.77" timer="2014-11-06 14:17:39" filename="E:\FileLoadTest\Disinfection\ExamWin\LinearFittingAndIntersect.cs" upordown="up"/>
+        <item filesize="4297" clientip="192.168.1.77" timer="2014-11-06 14:17:39" filename="E:\FileLoadTest\Disinfection\ExamWin\MainWindow.xaml" upordown="up"/>
+        <item filesize="32962" clientip="192.168.1.77" timer="2014-11-06 14:17:39" filename="E:\FileLoadTest\Disinfection\ExamWin\MainWindow.xaml.cs" upordown="up"/>
+        <item filesize="9170" clientip="192.168.1.77" timer="2014-11-06 14:17:39" filename="E:\FileLoadTest\Disinfection\ExamWin\ReportForms.xaml" upordown="up"/>
+        <item filesize="909" clientip="192.168.1.77" timer="2014-11-06 14:17:39" filename="E:\FileLoadTest\Disinfection\ExamWin\ReportForms.xaml.cs" upordown="up"/>
+        <item filesize="327" clientip="192.168.1.77" timer="2014-11-06 14:17:39" filename="E:\FileLoadTest\Disinfection\packages\repositories.config" upordown="up"/>
+        <item filesize="4327" clientip="192.168.1.77" timer="2014-11-06 14:17:39" filename="E:\FileLoadTest\Disinfection\TrainingWin\ActionJudge.cs" upordown="up"/>
+        <item filesize="304" clientip="192.168.1.77" timer="2014-11-06 14:17:39" filename="E:\FileLoadTest\Disinfection\TrainingWin\App.config" upordown="up"/>
+        <item filesize="438" clientip="192.168.1.77" timer="2014-11-06 14:17:39" filename="E:\FileLoadTest\Disinfection\TrainingWin\App.xaml" upordown="up"/>
+        <item filesize="466" clientip="192.168.1.77" timer="2014-11-06 14:17:39" filename="E:\FileLoadTest\Disinfection\TrainingWin\App.xaml.cs" upordown="up"/>
+        <item filesize="6067" clientip="192.168.1.77" timer="2014-11-06 14:17:39" filename="E:\FileLoadTest\Disinfection\TrainingWin\BlankCheck.cs" upordown="up"/>
+        <item filesize="15456" clientip="192.168.1.77" timer="2014-11-06 14:17:39" filename="E:\FileLoadTest\Disinfection\TrainingWin\DatabaseControl.cs" upordown="up"/>
+        <item filesize="3681" clientip="192.168.1.77" timer="2014-11-06 14:17:39" filename="E:\FileLoadTest\Disinfection\TrainingWin\DataSave.cs" upordown="up"/>
+        <item filesize="3716" clientip="192.168.1.77" timer="2014-11-06 14:17:39" filename="E:\FileLoadTest\Disinfection\TrainingWin\Draw.cs" upordown="up"/>
+        <item filesize="8882" clientip="192.168.1.77" timer="2014-11-06 14:17:39" filename="E:\FileLoadTest\Disinfection\TrainingWin\LinearFittingAndIntersect.cs" upordown="up"/>
+        <item filesize="7768" clientip="192.168.1.77" timer="2014-11-06 14:17:39" filename="E:\FileLoadTest\Disinfection\TrainingWin\MainWindow.xaml" upordown="up"/>
+        <item filesize="27656" clientip="192.168.1.77" timer="2014-11-06 14:17:39" filename="E:\FileLoadTest\Disinfection\TrainingWin\MainWindow.xaml.cs" upordown="up"/>
+        <item filesize="7153" clientip="192.168.1.77" timer="2014-11-06 14:17:39" filename="E:\FileLoadTest\Disinfection\TrainingWin\ReportForms.xaml" upordown="up"/>
+        <item filesize="921" clientip="192.168.1.77" timer="2014-11-06 14:17:39" filename="E:\FileLoadTest\Disinfection\TrainingWin\ReportForms.xaml.cs" upordown="up"/>
+        <item filesize="9649" clientip="192.168.1.77" timer="2014-11-06 14:17:39" filename="E:\FileLoadTest\Disinfection\TrainingWin\TrainingWin.csproj" upordown="up"/>
+        <item filesize="824" clientip="192.168.1.77" timer="2014-11-06 14:17:39" filename="E:\FileLoadTest\Disinfection\TrainingWin\TrainingWin.csproj.user" upordown="up"/>
+        <item filesize="885" clientip="192.168.1.77" timer="2014-11-06 14:17:39" filename="E:\FileLoadTest\Disinfection\" upordown="up"/>
+        <item filesize="742" clientip="192.168.1.77" timer="2014-11-06 14:17:39" filename="E:\FileLoadTest\Disinfection\" upordown="up"/>
+        <item filesize="899" clientip="192.168.1.77" timer="2014-11-06 14:17:39" filename="E:\FileLoadTest\Disinfection\" upordown="up"/>
+        <item filesize="1818" clientip="192.168.1.77" timer="2014-11-06 14:17:39" filename="E:\FileLoadTest\Disinfection\" upordown="up"/>
+        <item filesize="910" clientip="192.168.1.77" timer="2014-11-06 14:17:39" filename="E:\FileLoadTest\Disinfection\" upordown="up"/>
+        <item filesize="6536" clientip="192.168.1.77" timer="2014-11-06 14:17:39" filename="E:\FileLoadTest\Disinfection\" upordown="up"/>
+        <item filesize="1686" clientip="192.168.1.77" timer="2014-11-06 14:17:39" filename="E:\FileLoadTest\Disinfection\" upordown="up"/>
+        <item filesize="809" clientip="192.168.1.77" timer="2014-11-06 14:17:39" filename="E:\FileLoadTest\Disinfection\" upordown="up"/>
+        <item filesize="21724" clientip="192.168.1.77" timer="2014-11-06 14:17:40" filename="E:\FileLoadTest\Disinfection\" upordown="up"/>
+        <item filesize="91692" clientip="192.168.1.77" timer="2014-11-06 14:17:40" filename="E:\FileLoadTest\Disinfection\" upordown="up"/>
+        <item filesize="24928" clientip="192.168.1.77" timer="2014-11-06 14:17:40" filename="E:\FileLoadTest\Disinfection\" upordown="up"/>
+        <item filesize="106572" clientip="192.168.1.77" timer="2014-11-06 14:17:40" filename="E:\FileLoadTest\Disinfection\" upordown="up"/>
+        <item filesize="9738" clientip="192.168.1.77" timer="2014-11-06 14:17:40" filename="E:\FileLoadTest\Disinfection\" upordown="up"/>
+        <item filesize="3589" clientip="192.168.1.77" timer="2014-11-06 14:17:40" filename="E:\FileLoadTest\Disinfection\" upordown="up"/>
+        <item filesize="2931" clientip="192.168.1.77" timer="2014-11-06 14:17:40" filename="E:\FileLoadTest\Disinfection\" upordown="up"/>
+        <item filesize="9748" clientip="192.168.1.77" timer="2014-11-06 14:17:40" filename="E:\FileLoadTest\Disinfection\" upordown="up"/>
+        <item filesize="16678" clientip="192.168.1.77" timer="2014-11-06 14:17:40" filename="E:\FileLoadTest\Disinfection\" upordown="up"/>
+        <item filesize="1712" clientip="192.168.1.77" timer="2014-11-06 14:17:40" filename="E:\FileLoadTest\Disinfection\" upordown="up"/>
+        <item filesize="3690" clientip="192.168.1.77" timer="2014-11-06 14:17:40" filename="E:\FileLoadTest\Disinfection\" upordown="up"/>
+        <item filesize="1674" clientip="192.168.1.77" timer="2014-11-06 14:17:40" filename="E:\FileLoadTest\Disinfection\" upordown="up"/>
+        <item filesize="4263" clientip="192.168.1.77" timer="2014-11-06 14:17:40" filename="E:\FileLoadTest\Disinfection\" upordown="up"/>
+        <item filesize="2896" clientip="192.168.1.77" timer="2014-11-06 14:17:40" filename="E:\FileLoadTest\Disinfection\" upordown="up"/>
+        <item filesize="6082" clientip="192.168.1.77" timer="2014-11-06 14:17:40" filename="E:\FileLoadTest\Disinfection\" upordown="up"/>
+        <item filesize="1035" clientip="192.168.1.77" timer="2014-11-06 14:17:40" filename="E:\FileLoadTest\Disinfection\" upordown="up"/>
+        <item filesize="749" clientip="192.168.1.77" timer="2014-11-06 14:17:40" filename="E:\FileLoadTest\Disinfection\" upordown="up"/>
+        <item filesize="66536" clientip="192.168.1.77" timer="2014-11-06 14:17:40" filename="E:\FileLoadTest\Disinfection\" upordown="up"/>
+        <item filesize="14746" clientip="192.168.1.77" timer="2014-11-06 14:17:40" filename="E:\FileLoadTest\Disinfection\" upordown="up"/>
+        <item filesize="2699" clientip="192.168.1.77" timer="2014-11-06 14:17:40" filename="E:\FileLoadTest\Disinfection\" upordown="up"/>
+        <item filesize="5311" clientip="192.168.1.77" timer="2014-11-06 14:17:40" filename="E:\FileLoadTest\Disinfection\" upordown="up"/>
+        <item filesize="284" clientip="192.168.1.77" timer="2014-11-06 14:17:52" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\.gitignore" upordown="up"/>
+        <item filesize="10701" clientip="192.168.1.77" timer="2014-11-06 14:17:52" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\Disinfection_Fin.sln" upordown="up"/>
+        <item filesize="706" clientip="192.168.1.77" timer="2014-11-06 14:17:52" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\说明.txt" upordown="up"/>
+        <item filesize="693" clientip="192.168.1.77" timer="2014-11-06 14:17:52" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\Disinfection_Fin\app.config" upordown="up"/>
+        <item filesize="867" clientip="192.168.1.77" timer="2014-11-06 14:17:52" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\Disinfection_Fin\App.xaml" upordown="up"/>
+        <item filesize="533" clientip="192.168.1.77" timer="2014-11-06 14:17:52" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\Disinfection_Fin\App.xaml.cs" upordown="up"/>
+        <item filesize="480" clientip="192.168.1.77" timer="2014-11-06 14:17:52" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\Disinfection_Fin\config.xml" upordown="up"/>
+        <item filesize="24892" clientip="192.168.1.77" timer="2014-11-06 14:17:52" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\Disinfection_Fin\DatabaseControl.cs" upordown="up"/>
+        <item filesize="3808" clientip="192.168.1.77" timer="2014-11-06 14:17:52" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\Disinfection_Fin\DataSave.cs" upordown="up"/>
+        <item filesize="15527" clientip="192.168.1.77" timer="2014-11-06 14:17:52" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\Disinfection_Fin\Disinfection_Fin.csproj" upordown="up"/>
+        <item filesize="804" clientip="192.168.1.77" timer="2014-11-06 14:17:52" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\Disinfection_Fin\Disinfection_Fin.csproj.user" upordown="up"/>
+        <item filesize="8107" clientip="192.168.1.77" timer="2014-11-06 14:17:52" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\Disinfection_Fin\Excelcontrol.cs" upordown="up"/>
+        <item filesize="256720" clientip="192.168.1.77" timer="2014-11-06 14:17:53" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\Disinfection_Fin\FirstFloor.ModernUI.dll" upordown="up"/>
+        <item filesize="113278" clientip="192.168.1.77" timer="2014-11-06 14:17:53" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\Disinfection_Fin\FirstFloor.ModernUI.xml" upordown="up"/>
+        <item filesize="2643" clientip="192.168.1.77" timer="2014-11-06 14:17:53" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\Disinfection_Fin\MainWindow.xaml" upordown="up"/>
+        <item filesize="1898" clientip="192.168.1.77" timer="2014-11-06 14:17:53" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\Disinfection_Fin\MainWindow.xaml.cs" upordown="up"/>
+        <item filesize="331" clientip="192.168.1.77" timer="2014-11-06 14:17:53" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\Disinfection_Fin\packages.config" upordown="up"/>
+        <item filesize="16068" clientip="192.168.1.77" timer="2014-11-06 14:17:53" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\Disinfection_Fin\SensorDataGet.dll" upordown="up"/>
+        <item filesize="18652" clientip="192.168.1.77" timer="2014-11-06 14:17:53" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\Disinfection_Fin\SensorDataGet_x64_release.dll" upordown="up"/>
+        <item filesize="982" clientip="192.168.1.77" timer="2014-11-06 14:17:53" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\Disinfection_Fin\StartLogo.xaml" upordown="up"/>
+        <item filesize="2218" clientip="192.168.1.77" timer="2014-11-06 14:17:53" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\Disinfection_Fin\StartLogo.xaml.cs" upordown="up"/>
+        <item filesize="3145928" clientip="192.168.1.77" timer="2014-11-06 14:17:53" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\Disinfection_Fin\Userinformation.mdf" upordown="up"/>
+        <item filesize="5308624" clientip="192.168.1.77" timer="2014-11-06 14:17:53" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\Disinfection_Fin\Userinformation_log.ldf" upordown="up"/>
+        <item filesize="187131" clientip="192.168.1.77" timer="2014-11-06 14:17:53" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\Disinfection_Fin\UserinformationDataSet.Designer.cs" upordown="up"/>
+        <item filesize="217" clientip="192.168.1.77" timer="2014-11-06 14:17:53" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\Disinfection_Fin\UserinformationDataSet.xsc" upordown="up"/>
+        <item filesize="29276" clientip="192.168.1.77" timer="2014-11-06 14:17:53" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\Disinfection_Fin\UserinformationDataSet.xsd" upordown="up"/>
+        <item filesize="217" clientip="192.168.1.77" timer="2014-11-06 14:17:53" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\Disinfection_Fin\UserinformationDataSet.xss" upordown="up"/>
+        <item filesize="3290" clientip="192.168.1.77" timer="2014-11-06 14:17:53" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\ExamWin\ActionJudge.cs" upordown="up"/>
+        <item filesize="348" clientip="192.168.1.77" timer="2014-11-06 14:17:54" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\ExamWin\App.config" upordown="up"/>
+        <item filesize="482" clientip="192.168.1.77" timer="2014-11-06 14:17:54" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\ExamWin\App.xaml" upordown="up"/>
+        <item filesize="510" clientip="192.168.1.77" timer="2014-11-06 14:17:54" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\ExamWin\App.xaml.cs" upordown="up"/>
+        <item filesize="2224" clientip="192.168.1.77" timer="2014-11-06 14:17:54" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\ExamWin\BlankCheck.cs" upordown="up"/>
+        <item filesize="17902" clientip="192.168.1.77" timer="2014-11-06 14:17:54" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\ExamWin\DatabaseControl.cs" upordown="up"/>
+        <item filesize="5182" clientip="192.168.1.77" timer="2014-11-06 14:17:54" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\ExamWin\DataSave.cs" upordown="up"/>
+        <item filesize="3752" clientip="192.168.1.77" timer="2014-11-06 14:17:54" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\ExamWin\Draw.cs" upordown="up"/>
+        <item filesize="6644" clientip="192.168.1.77" timer="2014-11-06 14:17:54" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\ExamWin\ExamWin.csproj" upordown="up"/>
+        <item filesize="875" clientip="192.168.1.77" timer="2014-11-06 14:17:54" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\ExamWin\ExamWin.csproj.user" upordown="up"/>
+        <item filesize="8926" clientip="192.168.1.77" timer="2014-11-06 14:17:54" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\ExamWin\LinearFittingAndIntersect.cs" upordown="up"/>
+        <item filesize="4349" clientip="192.168.1.77" timer="2014-11-06 14:17:54" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\ExamWin\MainWindow.xaml" upordown="up"/>
+        <item filesize="33014" clientip="192.168.1.77" timer="2014-11-06 14:17:54" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\ExamWin\MainWindow.xaml.cs" upordown="up"/>
+        <item filesize="9222" clientip="192.168.1.77" timer="2014-11-06 14:17:54" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\ExamWin\ReportForms.xaml" upordown="up"/>
+        <item filesize="961" clientip="192.168.1.77" timer="2014-11-06 14:17:54" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\ExamWin\ReportForms.xaml.cs" upordown="up"/>
+        <item filesize="379" clientip="192.168.1.77" timer="2014-11-06 14:17:54" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\packages\repositories.config" upordown="up"/>
+        <item filesize="4379" clientip="192.168.1.77" timer="2014-11-06 14:17:54" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\TrainingWin\ActionJudge.cs" upordown="up"/>
+        <item filesize="356" clientip="192.168.1.77" timer="2014-11-06 14:17:54" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\TrainingWin\App.config" upordown="up"/>
+        <item filesize="490" clientip="192.168.1.77" timer="2014-11-06 14:17:54" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\TrainingWin\App.xaml" upordown="up"/>
+        <item filesize="518" clientip="192.168.1.77" timer="2014-11-06 14:17:54" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\TrainingWin\App.xaml.cs" upordown="up"/>
+        <item filesize="6119" clientip="192.168.1.77" timer="2014-11-06 14:17:54" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\TrainingWin\BlankCheck.cs" upordown="up"/>
+        <item filesize="15508" clientip="192.168.1.77" timer="2014-11-06 14:17:54" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\TrainingWin\DatabaseControl.cs" upordown="up"/>
+        <item filesize="3733" clientip="192.168.1.77" timer="2014-11-06 14:17:54" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\TrainingWin\DataSave.cs" upordown="up"/>
+        <item filesize="3768" clientip="192.168.1.77" timer="2014-11-06 14:17:54" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\TrainingWin\Draw.cs" upordown="up"/>
+        <item filesize="8934" clientip="192.168.1.77" timer="2014-11-06 14:17:54" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\TrainingWin\LinearFittingAndIntersect.cs" upordown="up"/>
+        <item filesize="7820" clientip="192.168.1.77" timer="2014-11-06 14:17:54" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\TrainingWin\MainWindow.xaml" upordown="up"/>
+        <item filesize="27714" clientip="192.168.1.77" timer="2014-11-06 14:17:54" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\TrainingWin\MainWindow.xaml.cs" upordown="up"/>
+        <item filesize="7205" clientip="192.168.1.77" timer="2014-11-06 14:17:54" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\TrainingWin\ReportForms.xaml" upordown="up"/>
+        <item filesize="973" clientip="192.168.1.77" timer="2014-11-06 14:17:54" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\TrainingWin\ReportForms.xaml.cs" upordown="up"/>
+        <item filesize="9699" clientip="192.168.1.77" timer="2014-11-06 14:17:54" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\TrainingWin\TrainingWin.csproj" upordown="up"/>
+        <item filesize="876" clientip="192.168.1.77" timer="2014-11-06 14:17:54" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\TrainingWin\TrainingWin.csproj.user" upordown="up"/>
+        <item filesize="1007" clientip="192.168.1.77" timer="2014-11-06 14:17:54" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\Disinfection_Fin\Content\About.xaml" upordown="up"/>
+        <item filesize="870" clientip="192.168.1.77" timer="2014-11-06 14:17:54" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\Disinfection_Fin\Content\About.xaml.cs" upordown="up"/>
+        <item filesize="1049" clientip="192.168.1.77" timer="2014-11-06 14:17:54" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\Disinfection_Fin\Content\ModernUI.Snowflakes.xaml" upordown="up"/>
+        <item filesize="1966" clientip="192.168.1.77" timer="2014-11-06 14:17:54" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\Disinfection_Fin\Content\SettingsAppearance.xaml" upordown="up"/>
+        <item filesize="1064" clientip="192.168.1.77" timer="2014-11-06 14:17:54" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\Disinfection_Fin\Content\SettingsAppearance.xaml.cs" upordown="up"/>
+        <item filesize="6698" clientip="192.168.1.77" timer="2014-11-06 14:17:55" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\Disinfection_Fin\Content\SettingsAppearanceViewModel.cs" upordown="up"/>
+        <item filesize="1808" clientip="192.168.1.77" timer="2014-11-06 14:17:55" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\Disinfection_Fin\Content\Theme.xaml" upordown="up"/>
+        <item filesize="937" clientip="192.168.1.77" timer="2014-11-06 14:17:55" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\Disinfection_Fin\Content\Theme.xaml.cs" upordown="up"/>
+        <item filesize="21834" clientip="192.168.1.77" timer="2014-11-06 14:17:55" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\Disinfection_Fin\icon\err.png" upordown="up"/>
+        <item filesize="91804" clientip="192.168.1.77" timer="2014-11-06 14:17:55" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\Disinfection_Fin\icon\logo.png" upordown="up"/>
+        <item filesize="25042" clientip="192.168.1.77" timer="2014-11-06 14:17:55" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\Disinfection_Fin\icon\right.png" upordown="up"/>
+        <item filesize="106686" clientip="192.168.1.77" timer="2014-11-06 14:17:55" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\Disinfection_Fin\icon\Thumbs.db" upordown="up"/>
+        <item filesize="9862" clientip="192.168.1.77" timer="2014-11-06 14:17:55" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\Disinfection_Fin\icon\VIRSIMlogo.ico" upordown="up"/>
+        <item filesize="3727" clientip="192.168.1.77" timer="2014-11-06 14:17:55" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\Disinfection_Fin\Pages\ComStrokeConfig.xaml" upordown="up"/>
+        <item filesize="3075" clientip="192.168.1.77" timer="2014-11-06 14:17:55" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\Disinfection_Fin\Pages\ComStrokeConfig.xaml.cs" upordown="up"/>
+        <item filesize="9878" clientip="192.168.1.77" timer="2014-11-06 14:17:55" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\Disinfection_Fin\Pages\Login_admin.xaml" upordown="up"/>
+        <item filesize="16760" clientip="192.168.1.77" timer="2014-11-06 14:17:55" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\Disinfection_Fin\Pages\Login_admin.xaml.cs" upordown="up"/>
+        <item filesize="1850" clientip="192.168.1.77" timer="2014-11-06 14:17:55" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\Disinfection_Fin\Pages\Login_user_Test.xaml" upordown="up"/>
+        <item filesize="3834" clientip="192.168.1.77" timer="2014-11-06 14:17:55" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\Disinfection_Fin\Pages\Login_user_Test.xaml.cs" upordown="up"/>
+        <item filesize="1820" clientip="192.168.1.77" timer="2014-11-06 14:17:55" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\Disinfection_Fin\Pages\Login_user_Training.xaml" upordown="up"/>
+        <item filesize="4415" clientip="192.168.1.77" timer="2014-11-06 14:17:55" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\Disinfection_Fin\Pages\Login_user_Training.xaml.cs" upordown="up"/>
+        <item filesize="3020" clientip="192.168.1.77" timer="2014-11-06 14:17:55" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\Disinfection_Fin\Pages\Register.xaml" upordown="up"/>
+        <item filesize="6212" clientip="192.168.1.77" timer="2014-11-06 14:17:55" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\Disinfection_Fin\Pages\Register.xaml.cs" upordown="up"/>
+        <item filesize="1159" clientip="192.168.1.77" timer="2014-11-06 14:17:55" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\Disinfection_Fin\Pages\Settings.xaml" upordown="up"/>
+        <item filesize="879" clientip="192.168.1.77" timer="2014-11-06 14:17:55" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\Disinfection_Fin\Pages\Settings.xaml.cs" upordown="up"/>
+        <item filesize="66650" clientip="192.168.1.77" timer="2014-11-06 14:17:55" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\Disinfection_Fin\Pic\111_01.png" upordown="up"/>
+        <item filesize="14860" clientip="192.168.1.77" timer="2014-11-06 14:17:55" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\Disinfection_Fin\Pic\111_02.png" upordown="up"/>
+        <item filesize="2813" clientip="192.168.1.77" timer="2014-11-06 14:17:55" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\Disinfection_Fin\Pic\111_03.png" upordown="up"/>
+        <item filesize="5425" clientip="192.168.1.77" timer="2014-11-06 14:17:55" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\Disinfection_Fin\Pic\111_04.png" upordown="up"/>
+        <item filesize="208454" clientip="192.168.1.77" timer="2014-11-06 14:17:55" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\Disinfection_Fin\Pic\background.snowflakes.jpg" upordown="up"/>
+        <item filesize="347121" clientip="192.168.1.77" timer="2014-11-06 14:17:55" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\Disinfection_Fin\Pic\demo_11.jpg" upordown="up"/>
+        <item filesize="37478" clientip="192.168.1.77" timer="2014-11-06 14:17:55" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\Disinfection_Fin\Pic\demo_11_1.png" upordown="up"/>
+        <item filesize="326894" clientip="192.168.1.77" timer="2014-11-06 14:17:55" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\Disinfection_Fin\Pic\demo_22.jpg" upordown="up"/>
+        <item filesize="24846" clientip="192.168.1.77" timer="2014-11-06 14:17:56" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\Disinfection_Fin\Pic\demo_22_1.png" upordown="up"/>
+        <item filesize="12114" clientip="192.168.1.77" timer="2014-11-06 14:17:56" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\Disinfection_Fin\Pic\logo.png" upordown="up"/>
+        <item filesize="1650" clientip="192.168.1.77" timer="2014-11-06 14:17:56" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\Disinfection_Fin\Properties\AssemblyInfo.cs" upordown="up"/>
+        <item filesize="1981" clientip="192.168.1.77" timer="2014-11-06 14:17:56" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\Disinfection_Fin\Properties\Settings.Designer.cs" upordown="up"/>
+        <item filesize="1288" clientip="192.168.1.77" timer="2014-11-06 14:17:56" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\Disinfection_Fin\Properties\Settings.settings" upordown="up"/>
+        <item filesize="2474" clientip="192.168.1.77" timer="2014-11-06 14:17:56" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\ExamWin\Properties\AssemblyInfo.cs" upordown="up"/>
+        <item filesize="3050" clientip="192.168.1.77" timer="2014-11-06 14:17:56" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\ExamWin\Properties\Resources.Designer.cs" upordown="up"/>
+        <item filesize="5806" clientip="192.168.1.77" timer="2014-11-06 14:17:56" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\ExamWin\Properties\Resources.resx" upordown="up"/>
+        <item filesize="1296" clientip="192.168.1.77" timer="2014-11-06 14:17:56" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\ExamWin\Properties\Settings.Designer.cs" upordown="up"/>
+        <item filesize="401" clientip="192.168.1.77" timer="2014-11-06 14:17:56" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\ExamWin\Properties\Settings.settings" upordown="up"/>
+        <item filesize="226921" clientip="192.168.1.77" timer="2014-11-06 14:17:56" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\packages\ModernUI.WPF.1.0.5\ModernUI.WPF.1.0.5.nupkg" upordown="up"/>
+        <item filesize="1079" clientip="192.168.1.77" timer="2014-11-06 14:17:56" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\packages\ModernUI.WPF.1.0.5\ModernUI.WPF.1.0.5.nuspec" upordown="up"/>
+        <item filesize="11888" clientip="192.168.1.77" timer="2014-11-06 14:17:56" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\TrainingWin\Music\call.wav" upordown="up"/>
+        <item filesize="18703" clientip="192.168.1.77" timer="2014-11-06 14:17:56" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\TrainingWin\Music\SYSTEM.WAV" upordown="up"/>
+        <item filesize="7926" clientip="192.168.1.77" timer="2014-11-06 14:17:56" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\TrainingWin\Music\system1.wav" upordown="up"/>
+        <item filesize="26274" clientip="192.168.1.77" timer="2014-11-06 14:17:56" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\TrainingWin\Music\warn.WAV" upordown="up"/>
+        <item filesize="66640" clientip="192.168.1.77" timer="2014-11-06 14:17:56" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\TrainingWin\Pic\111_01.png" upordown="up"/>
+        <item filesize="14850" clientip="192.168.1.77" timer="2014-11-06 14:17:56" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\TrainingWin\Pic\111_02.png" upordown="up"/>
+        <item filesize="2803" clientip="192.168.1.77" timer="2014-11-06 14:17:56" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\TrainingWin\Pic\111_03.png" upordown="up"/>
+        <item filesize="5415" clientip="192.168.1.77" timer="2014-11-06 14:17:56" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\TrainingWin\Pic\111_04.png" upordown="up"/>
+        <item filesize="12104" clientip="192.168.1.77" timer="2014-11-06 14:17:56" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\TrainingWin\Pic\logo.png" upordown="up"/>
+        <item filesize="72983" clientip="192.168.1.77" timer="2014-11-06 14:17:56" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\TrainingWin\Pic\top.jpg" upordown="up"/>
+        <item filesize="2490" clientip="192.168.1.77" timer="2014-11-06 14:17:56" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\TrainingWin\Properties\AssemblyInfo.cs" upordown="up"/>
+        <item filesize="3066" clientip="192.168.1.77" timer="2014-11-06 14:17:56" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\TrainingWin\Properties\Resources.Designer.cs" upordown="up"/>
+        <item filesize="5814" clientip="192.168.1.77" timer="2014-11-06 14:17:56" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\TrainingWin\Properties\Resources.resx" upordown="up"/>
+        <item filesize="1308" clientip="192.168.1.77" timer="2014-11-06 14:17:56" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\TrainingWin\Properties\Settings.Designer.cs" upordown="up"/>
+        <item filesize="409" clientip="192.168.1.77" timer="2014-11-06 14:17:56" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\TrainingWin\Properties\Settings.settings" upordown="up"/>
+        <item filesize="3009" clientip="192.168.1.77" timer="2014-11-06 14:17:56" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\Disinfection_Fin\obj\Release\App.g.i.cs" upordown="up"/>
+        <item filesize="9578" clientip="192.168.1.77" timer="2014-11-06 14:17:57" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\Disinfection_Fin\obj\Release\DesignTimeResolveAssemblyReferencesInput.cache" upordown="up"/>
+        <item filesize="375" clientip="192.168.1.77" timer="2014-11-06 14:17:57" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\Disinfection_Fin\obj\Release\Disinfection_Fin.csproj.FileListAbsolute.txt" upordown="up"/>
+        <item filesize="1852" clientip="192.168.1.77" timer="2014-11-06 14:17:57" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\Disinfection_Fin\obj\Release\Disinfection_Fin_Content.g.i.cs" upordown="up"/>
+        <item filesize="896" clientip="192.168.1.77" timer="2014-11-06 14:17:57" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\Disinfection_Fin\obj\Release\Disinfection_Fin_MarkupCompile.i.cache" upordown="up"/>
+        <item filesize="3965" clientip="192.168.1.77" timer="2014-11-06 14:17:57" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\Disinfection_Fin\obj\Release\MainWindow.g.i.cs" upordown="up"/>
+        <item filesize="4145" clientip="192.168.1.77" timer="2014-11-06 14:17:57" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\Disinfection_Fin\obj\Release\StartLogo.g.i.cs" upordown="up"/>
+        <item filesize="310" clientip="192.168.1.77" timer="2014-11-06 14:17:57" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\Disinfection_Fin\obj\Release\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" upordown="up"/>
+        <item filesize="310" clientip="192.168.1.77" timer="2014-11-06 14:17:57" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\Disinfection_Fin\obj\Release\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" upordown="up"/>
+        <item filesize="310" clientip="192.168.1.77" timer="2014-11-06 14:17:57" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\Disinfection_Fin\obj\Release\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" upordown="up"/>
+        <item filesize="2483" clientip="192.168.1.77" timer="2014-11-06 14:17:57" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\ExamWin\obj\Debug\App.g.i.cs" upordown="up"/>
+        <item filesize="7539" clientip="192.168.1.77" timer="2014-11-06 14:17:57" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\ExamWin\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" upordown="up"/>
+        <item filesize="535" clientip="192.168.1.77" timer="2014-11-06 14:17:57" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\ExamWin\obj\Debug\ExamWin_MarkupCompile.i.cache" upordown="up"/>
+        <item filesize="12280" clientip="192.168.1.77" timer="2014-11-06 14:17:57" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\ExamWin\obj\Debug\MainWindow.g.i.cs" upordown="up"/>
+        <item filesize="16583" clientip="192.168.1.77" timer="2014-11-06 14:17:57" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\ExamWin\obj\Debug\ReportForms.g.i.cs" upordown="up"/>
+        <item filesize="288" clientip="192.168.1.77" timer="2014-11-06 14:17:57" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\ExamWin\obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" upordown="up"/>
+        <item filesize="288" clientip="192.168.1.77" timer="2014-11-06 14:17:57" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\ExamWin\obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" upordown="up"/>
+        <item filesize="288" clientip="192.168.1.77" timer="2014-11-06 14:17:57" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\ExamWin\obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" upordown="up"/>
+        <item filesize="2480" clientip="192.168.1.77" timer="2014-11-06 14:17:57" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\ExamWin\obj\Release\App.g.cs" upordown="up"/>
+        <item filesize="2484" clientip="192.168.1.77" timer="2014-11-06 14:17:57" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\ExamWin\obj\Release\App.g.i.cs" upordown="up"/>
+        <item filesize="975" clientip="192.168.1.77" timer="2014-11-06 14:17:57" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\ExamWin\obj\Release\DesignTimeResolveAssemblyReferences.cache" upordown="up"/>
+        <item filesize="7439" clientip="192.168.1.77" timer="2014-11-06 14:17:57" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\ExamWin\obj\Release\DesignTimeResolveAssemblyReferencesInput.cache" upordown="up"/>
+        <item filesize="11646" clientip="192.168.1.77" timer="2014-11-06 14:17:57" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\ExamWin\obj\Release\ExamWin.csproj.FileListAbsolute.txt" upordown="up"/>
+        <item filesize="1159" clientip="192.168.1.77" timer="2014-11-06 14:17:57" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\ExamWin\obj\Release\ExamWin.csproj.GenerateResource.Cache" upordown="up"/>
+        <item filesize="2757" clientip="192.168.1.77" timer="2014-11-06 14:17:57" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\ExamWin\obj\Release\ExamWin.csprojResolveAssemblyReference.cache" upordown="up"/>
+        <item filesize="52926" clientip="192.168.1.77" timer="2014-11-06 14:17:57" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\ExamWin\obj\Release\ExamWin.exe" upordown="up"/>
+        <item filesize="8573" clientip="192.168.1.77" timer="2014-11-06 14:17:57" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\ExamWin\obj\Release\ExamWin.g.resources" upordown="up"/>
+        <item filesize="91838" clientip="192.168.1.77" timer="2014-11-06 14:17:57" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\ExamWin\obj\Release\ExamWin.pdb" upordown="up"/>
+        <item filesize="424" clientip="192.168.1.77" timer="2014-11-06 14:17:58" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\ExamWin\obj\Release\ExamWin.Properties.Resources.resources" upordown="up"/>
+        <item filesize="504" clientip="192.168.1.77" timer="2014-11-06 14:17:58" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\ExamWin\obj\Release\ExamWin_MarkupCompile.cache" upordown="up"/>
+        <item filesize="508" clientip="192.168.1.77" timer="2014-11-06 14:17:58" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\ExamWin\obj\Release\ExamWin_MarkupCompile.i.cache" upordown="up"/>
+        <item filesize="2561" clientip="192.168.1.77" timer="2014-11-06 14:17:58" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\ExamWin\obj\Release\MainWindow.baml" upordown="up"/>
+        <item filesize="12280" clientip="192.168.1.77" timer="2014-11-06 14:17:58" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\ExamWin\obj\Release\MainWindow.g.cs" upordown="up"/>
+        <item filesize="12284" clientip="192.168.1.77" timer="2014-11-06 14:17:58" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\ExamWin\obj\Release\MainWindow.g.i.cs" upordown="up"/>
+        <item filesize="5926" clientip="192.168.1.77" timer="2014-11-06 14:17:58" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\ExamWin\obj\Release\ReportForms.baml" upordown="up"/>
+        <item filesize="16583" clientip="192.168.1.77" timer="2014-11-06 14:17:58" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\ExamWin\obj\Release\ReportForms.g.cs" upordown="up"/>
+        <item filesize="16587" clientip="192.168.1.77" timer="2014-11-06 14:17:58" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\ExamWin\obj\Release\ReportForms.g.i.cs" upordown="up"/>
+        <item filesize="292" clientip="192.168.1.77" timer="2014-11-06 14:17:58" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\ExamWin\obj\Release\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" upordown="up"/>
+        <item filesize="292" clientip="192.168.1.77" timer="2014-11-06 14:17:58" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\ExamWin\obj\Release\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" upordown="up"/>
+        <item filesize="292" clientip="192.168.1.77" timer="2014-11-06 14:17:58" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\ExamWin\obj\Release\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" upordown="up"/>
+        <item filesize="2488" clientip="192.168.1.77" timer="2014-11-06 14:17:58" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\TrainingWin\obj\Release\App.g.cs" upordown="up"/>
+        <item filesize="2492" clientip="192.168.1.77" timer="2014-11-06 14:17:58" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\TrainingWin\obj\Release\App.g.i.cs" upordown="up"/>
+        <item filesize="9112" clientip="192.168.1.77" timer="2014-11-06 14:17:58" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\TrainingWin\obj\Release\DesignTimeResolveAssemblyReferencesInput.cache" upordown="up"/>
+        <item filesize="4725" clientip="192.168.1.77" timer="2014-11-06 14:17:58" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\TrainingWin\obj\Release\MainWindow.baml" upordown="up"/>
+        <item filesize="18174" clientip="192.168.1.77" timer="2014-11-06 14:17:58" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\TrainingWin\obj\Release\MainWindow.g.cs" upordown="up"/>
+        <item filesize="18178" clientip="192.168.1.77" timer="2014-11-06 14:17:58" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\TrainingWin\obj\Release\MainWindow.g.i.cs" upordown="up"/>
+        <item filesize="4779" clientip="192.168.1.77" timer="2014-11-06 14:17:58" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\TrainingWin\obj\Release\ReportForms.baml" upordown="up"/>
+        <item filesize="10182" clientip="192.168.1.77" timer="2014-11-06 14:17:58" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\TrainingWin\obj\Release\ReportForms.g.cs" upordown="up"/>
+        <item filesize="10186" clientip="192.168.1.77" timer="2014-11-06 14:17:58" filename="E:\FileLoadTest\Disinfection_Fin - 副本\Disinfection_Fin\TrainingWin\obj\Release\ReportForms.g.i.cs" upordown="up"/>

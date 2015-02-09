@@ -1,0 +1,40 @@
+﻿Build started 2015/1/20 11:30:17.
+     1>Project "J:\chenm\fileLoad\server\server\server.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "x64\Debug\server.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       CustomBuild:
+         All outputs are up-to-date.
+       ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\CL.exe /c /I.\GeneratedFiles /I. /IC:\Qt\4.7.4_vc9_x64\include /I.\GeneratedFiles\Debug /IC:\Qt\4.7.4_vc9_x64\include\QtCore /IC:\Qt\4.7.4_vc9_x64\include\QtGui /IC:\Qt\4.7.4_vc9_x64\include\QtNetwork /IC:\Qt\4.7.4_vc9_x64\include\QtSql /IC:\Qt\4.7.4_vc9_x64\include\QtXml /Zi /nologo /W1 /WX- /Od /D UNICODE /D WIN32 /D QT_LARGEFILE_SUPPORT /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_NETWORK_LIB /D QT_SQL_LIB /D QT_XML_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t- /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc100.pdb" /Gd /TP /errorReport:prompt GeneratedFiles\Debug\moc_server.cpp GeneratedFiles\Debug\moc_tcpthread.cpp main.cpp server.cpp tcpserver.cpp tcpthread.cpp
+         moc_server.cpp
+         moc_tcpthread.cpp
+         main.cpp
+         server.cpp
+         tcpserver.cpp
+         tcpthread.cpp
+         Generating Code...
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\CL.exe /c /I.\GeneratedFiles /I. /IC:\Qt\4.7.4_vc9_x64\include /I.\GeneratedFiles\Debug /IC:\Qt\4.7.4_vc9_x64\include\QtCore /IC:\Qt\4.7.4_vc9_x64\include\QtGui /IC:\Qt\4.7.4_vc9_x64\include\QtNetwork /IC:\Qt\4.7.4_vc9_x64\include\QtSql /IC:\Qt\4.7.4_vc9_x64\include\QtXml /Zi /nologo /W1 /WX- /Od /D UNICODE /D WIN32 /D QT_LARGEFILE_SUPPORT /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_NETWORK_LIB /D QT_SQL_LIB /D QT_XML_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t- /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc100.pdb" /Gd /TP /errorReport:prompt GeneratedFiles\qrc_server.cpp
+         qrc_server.cpp
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"J:\chenm\fileLoad\server\x64\Debug\\server.exe" /NOLOGO /LIBPATH:C:\Qt\4.7.4_vc9_x64\lib qtmaind.lib QtCored4.lib QtGuid4.lib QtNetworkd4.lib QtSqld4.lib QtXmld4.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"x64\Debug\server.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"J:\chenm\fileLoad\server\x64\Debug\server.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"J:\chenm\fileLoad\server\x64\Debug\server.lib" /MACHINE:X64 x64\Debug\datachange.obj
+         x64\Debug\moc_datachange.obj
+         x64\Debug\moc_server.obj
+         x64\Debug\moc_tcpserver.obj
+         x64\Debug\moc_tcpthread.obj
+         x64\Debug\qrc_server.obj
+         x64\Debug\main.obj
+         x64\Debug\server.obj
+         x64\Debug\tcpserver.obj
+         x64\Debug\tcpthread.obj
+         LINK : J:\chenm\fileLoad\server\x64\Debug\\server.exe not found or not built by the last incremental link; performing full link
+         server.vcxproj -> J:\chenm\fileLoad\server\x64\Debug\server.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"J:\chenm\fileLoad\server\x64\Debug\\server.exe;#1" /manifest x64\Debug\server.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "x64\Debug\server.unsuccessfulbuild".
+         Touching "x64\Debug\server.lastbuildstate".
+     1>Done Building Project "J:\chenm\fileLoad\server\server\server.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.26

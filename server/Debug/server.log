@@ -1,0 +1,31 @@
+﻿Build started 2014/8/28 16:48:27.
+     1>Project "d:\documents\visual studio 2010\Projects\server\server\server.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "d:\documents\visual studio 2010\Projects\server\Win32\Debug\".
+       InitializeBuildStatus:
+         Creating "Debug\server.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       CustomBuild:
+         Moc'ing server.h...
+         Uic'ing server.ui...
+         Rcc'ing server.qrc...
+     1>RCC : warning : No resources in 'd:\documents\visual studio 2010\Projects\server\server\server.qrc'.
+         
+       ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /IC:\Qt\4.7.4_vc9_x64\include /I.\GeneratedFiles\Debug /IC:\Qt\4.7.4_vc9_x64\include\QtCore /IC:\Qt\4.7.4_vc9_x64\include\QtGui /IC:\Qt\4.7.4_vc9_x64\include\QtNetwork /Zi /nologo /W1 /WX- /Od /Oy- /D UNICODE /D WIN32 /D QT_LARGEFILE_SUPPORT /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_NETWORK_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t- /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt GeneratedFiles\Debug\moc_server.cpp main.cpp server.cpp
+         moc_server.cpp
+         main.cpp
+         server.cpp
+         Generating Code...
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /IC:\Qt\4.7.4_vc9_x64\include /I.\GeneratedFiles\Debug /IC:\Qt\4.7.4_vc9_x64\include\QtCore /IC:\Qt\4.7.4_vc9_x64\include\QtGui /IC:\Qt\4.7.4_vc9_x64\include\QtNetwork /Zi /nologo /W1 /WX- /Od /Oy- /D UNICODE /D WIN32 /D QT_LARGEFILE_SUPPORT /D QT_DLL /D QT_CORE_LIB /D QT_GUI_LIB /D QT_NETWORK_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t- /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt GeneratedFiles\qrc_server.cpp
+         qrc_server.cpp
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"d:\documents\visual studio 2010\Projects\server\Win32\Debug\\server.exe" /NOLOGO /LIBPATH:C:\Qt\4.7.4_vc9_x64\lib qtmaind.lib QtCored4.lib QtGuid4.lib QtNetworkd4.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\server.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"d:\documents\visual studio 2010\Projects\server\Win32\Debug\server.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"d:\documents\visual studio 2010\Projects\server\Win32\Debug\server.lib" /MACHINE:X86 Debug\moc_server.obj
+         Debug\qrc_server.obj
+         Debug\main.obj
+         Debug\server.obj
+     1>QtGuid4.lib(QtGuid4.dll) : fatal error LNK1112: module machine type 'x64' conflicts with target machine type 'X86'
+     1>Done Building Project "d:\documents\visual studio 2010\Projects\server\server\server.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:02.58
